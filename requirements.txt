@@ -1,0 +1,8 @@
+streamlit
+langchain
+chromadb
+openai
+pdfplumber
+python-docx
+tiktoken
+pdfplumber
